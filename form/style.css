@@ -1,0 +1,21 @@
+li > a{
+    color : #fff  !important;
+}
+
+.navbar-brand{
+    color : #fff  !important;
+}
+
+.collapse{
+    display : flex ;
+    margin-left: 70%  !important;
+}
+
+.btn{
+    margin-left : 40% ;
+    margin-top : 20px ;
+    
+    
+}
+
+
